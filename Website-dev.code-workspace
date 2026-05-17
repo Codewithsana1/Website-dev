@@ -7,5 +7,7 @@
 			"path": "C:/Users/Esha/Desktop/website dev"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website dev"
+	}
 }
